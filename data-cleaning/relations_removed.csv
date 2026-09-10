@@ -1,0 +1,71 @@
+﻿rel_id,figure_id,related_id,relation_type,description,source,reason
+64004,cen-qu,cen-qu,family,shiji:父子,shiji-kb,shiji 关系自环
+64005,fusu,fusu,family,shiji:父子,shiji-kb,shiji 关系自环
+64025,qi-jing-gong-2,qi-jing-gong-2,family,shiji:父子,shiji-kb,shiji 关系自环
+64029,lu-shen-gong,lu-shen-gong,family,shiji:父子,shiji-kb,shiji 关系自环
+64039,bi-gan,tai-shi-gong,family,shiji:父子,shiji-kb,别名 stub 合并：shiji 关系删除(不迁移)
+64054,qi-xuan-wang,qi-xuan-wang,family,shiji:父子,shiji-kb,shiji 关系自环
+64058,qi-xiang-gong,jin-xiang-gong,family,shiji:父子,shiji-kb,年代错位(两端断代无交集)
+64060,lidui,lidui,family,shiji:父子,shiji-kb,shiji 关系自环
+64066,guan-fu-ren,guan-fu-ren,family,shiji:父子,shiji-kb,shiji 关系自环
+64068,qin-xiao-wen-wang,qin-xiao-wen-wang,family,shiji:父子,shiji-kb,shiji 关系自环
+64070,bu-wei,author_25295,family,shiji:父子,shiji-kb,bu-wei 合并：别名自指/幽王伪关系
+64077,bing-rong,bing-rong,family,shiji:父子,shiji-kb,shiji 关系自环
+64092,su-li,su-li,family,shiji:父子,shiji-kb,shiji 关系自环
+64095,tui-dang,tui-dang,family,shiji:父子,shiji-kb,shiji 关系自环
+64101,wei-shen-gong,wei-shen-gong,family,shiji:父子,shiji-kb,shiji 关系自环
+64104,qin-zhuang-xiang-wang,qin-zhuang-xiang-wang,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64107,shun,shun,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64117,zhou-yi,zhou-yi,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64124,author_25302,author_25302,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64126,fu-sheng,fu-sheng,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64127,huan-sheng,huan-sheng,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64129,ziying_1,limu3,colleague,shiji:君臣,shiji-kb,年代错位(两端断代无交集)
+64136,mengtian,mengtian,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64140,ya-ji,ya-ji,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64141,ji-dan,ji-dan,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64143,author_25295,xi-zhou-you-wang,colleague,shiji:君臣,shiji-kb,bu-wei 合并：别名自指/幽王伪关系
+64144,zi-si,zi-si,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64147,lin-xiang-ru,lin-xiang-ru,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64148,zi-shen,zi-shen,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64149,wang-ling,wang-ling,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64150,qi-xuan-wang,qi-xuan-wang,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64151,wu-geng,wu-geng,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64152,zheng-huan-gong,zheng-huan-gong,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64153,chen-ping,chen-ping,colleague,shiji:君臣,shiji-kb,shiji 关系自环
+64161,pi-zheng,pi-zheng,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64169,qi-li-gong-2,qi-li-gong-2,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64172,xi-zhou-you-wang,xi-zhou-you-wang,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64173,pi-zheng-2,pi-zheng-2,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64178,tai-shi-gong,shang-zhou-wang,rival,shiji:敌对,shiji-kb,别名 stub 合并：shiji 关系删除(不迁移)
+64180,dong-zhou-dao-wang,dong-zhou-dao-wang,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64193,wu-wang-bi,wu-wang-bi,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64195,kong-fu,kong-fu,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64199,song-zhao-gong,song-zhao-gong,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64200,jin-ding-gong,jin-ding-gong,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64204,cao-you-bo,cao-you-bo,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64208,zhou-ai-wang,zhou-ai-wang,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64210,yi,yi,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64216,zhao-xiao-cheng-wang,zhao-xiao-cheng-wang,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64220,qing-fu,qing-fu,rival,shiji:敌对,shiji-kb,shiji 关系自环
+64249,huan-shu,huan-shu,family,shiji:祖孙,shiji-kb,shiji 关系自环
+64253,lu-zhao-gong,lu-zhao-gong,family,shiji:祖孙,shiji-kb,shiji 关系自环
+64255,qi-xiao-gong-2,cai-ze,family,shiji:祖孙,shiji-kb,年代错位(两端断代无交集)
+64259,zang-er-2,zang-er-2,family,shiji:祖孙,shiji-kb,shiji 关系自环
+64264,zhao,zhao,family,shiji:祖孙,shiji-kb,shiji 关系自环
+64270,guan-ying,guan-ying,colleague,shiji:封赏,shiji-kb,shiji 关系自环
+64271,yu-dan,yu-dan,colleague,shiji:封赏,shiji-kb,shiji 关系自环
+64272,jin-cheng-gong,jin-cheng-gong,colleague,shiji:封赏,shiji-kb,shiji 关系自环
+64284,su-jian,su-jian,colleague,shiji:封赏,shiji-kb,shiji 关系自环
+64290,gong-zi-bi,gong-zi-bi,family,shiji:叔侄,shiji-kb,shiji 关系自环
+64300,li-yuan,li-yuan,family,shiji:兄弟,shiji-kb,shiji 关系自环
+64305,cui-zhu,cui-zhu,family,shiji:兄弟,shiji-kb,shiji 关系自环
+64309,chu-huai-wang,chu-zhuang-wang,mentorship,shiji:师徒,shiji-kb,年代错位(两端断代无交集)
+64311,yue-yi,yue-yi,mentorship,shiji:师徒,shiji-kb,shiji 关系自环
+64313,lian-po,lian-po,mentorship,shiji:师徒,shiji-kb,shiji 关系自环
+64319,guan-zhong,guan-zhong,colleague,shiji:推荐,shiji-kb,shiji 关系自环
+64326,zhao,zhao,colleague,shiji:辅佐,shiji-kb,shiji 关系自环
+64332,wu-wang-liao,wu-wang-liao,rival,shiji:背叛,shiji-kb,shiji 关系自环
+64333,zhang-liang,zhang-liang,colleague,shiji:出使,shiji-kb,shiji 关系自环
+64343,liubang,liubang,family,shiji:祖孙,shiji-kb,shiji 关系自环
+65154,lixin2,author_25298,mentorship,shiji:师徒,shiji-kb,年代错位(两端断代无交集)

@@ -1,0 +1,11 @@
+﻿dup_id,dup_name,canon_id,canon_name,exclude_reason
+tian-rong,田荣,wang2,王(宋),canon 为宋人「王」，错配
+zi-zhang-2,子长,simaqian/gong-ye-zhang,司马迁/公冶长,一词双解（子长兼指二人）
+zhou-zi,周子,zhouchang2,周昌(清),canon 跨代
+gai-hou,盖侯,wangxin,王信(宋),canon 跨代/bio 脏
+yan-nian,延年,liyannian,李延年(清),canon 跨代
+mei-sheng,枚生,meicheng,枚乘,身份不确（枚生≠枚乘非通行）
+zou-zi,驺子,author_25294,邹衍,一词双解（驺忌/驺衍）
+ren-shao-qing,任少卿,renan,任安(宋),真任安(汉字少卿)未在库
+yan-wang-dan,燕王旦,liudan,刘旦(宋),canon 错代（宋·刘旦）
+cheng-yang-jing-wang,城阳景王,liuzhang,刘章(宋),canon 错代（宋·刘章）

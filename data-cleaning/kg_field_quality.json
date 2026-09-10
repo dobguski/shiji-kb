@@ -1,0 +1,26 @@
+{
+  "removed": {
+    "corrected/kg_all_relations.clean.json": {
+      "self": 77,
+      "alias": 1,
+      "anachronism": 1
+    },
+    "corrected/kg_family_relations.clean.json": {
+      "self": 24,
+      "alias": 1,
+      "anachronism": 0
+    }
+  },
+  "field_quality": {
+    "corrected/kg_all_relations.clean.json": {
+      "rows": 787,
+      "fragment_person_fields": 172,
+      "fragment_ratio": 0.219
+    },
+    "corrected/kg_family_relations.clean.json": {
+      "rows": 4503,
+      "fragment_person_fields": 3904,
+      "fragment_ratio": 0.867
+    }
+  }
+}

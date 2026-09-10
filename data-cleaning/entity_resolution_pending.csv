@@ -1,0 +1,5 @@
+﻿kind,a,b,relation,note
+relation,吕不韦,幽王,shiji:君臣,《楚世家》逐年并列，幽王实为楚幽王
+self_loop,西周幽王,西周幽王,shiji:敌对,自环噪声
+relation,西周幽王,春申君,shiji:敌对,疑楚幽王语境
+figures,西周幽王/周幽王/楚幽王/郑幽王,,,四幽王并存，需消解
